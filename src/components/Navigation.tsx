@@ -24,8 +24,8 @@ const Navigation = () => {
     >
       <div className="flex justify-between items-center">
         <div className="text-xl font-bold flex items-center animate-fade-in">
-          <span className="text-white mr-1">Dhan</span>
-          <span className="text-purple-400">ush</span>
+          <span className="text-white mr-1">Dhanush</span>
+          <span className="text-purple-400"></span>
         </div>
         
         <div className={`
