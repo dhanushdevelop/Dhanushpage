@@ -44,13 +44,13 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-10 items-center">
             <div className="relative z-10">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">
-                Crafting Digital Experiences 
+                Crafting Artificial Intelligence  Experiences 
                 <br />
                 That Inspire & Convert
               </h1>
               <p className="text-white/70 mb-8 max-w-lg">
-                We are a creative agency specializing in product design, branding, 
-                and digital experience that increase customer engagement.
+                I specialize in developing AI products and solutions that automate processes, 
+                solve complex problems, and drive smarter decision-making.
               </p>
               <Button className="bg-purple-600 hover:bg-purple-700 text-white rounded-full flex items-center gap-2">
                 Start a Project <ArrowRight size={16} />
@@ -60,19 +60,19 @@ const Index = () => {
             <div className="grid grid-cols-2 gap-4">
               <div className="project-card transform translate-y-8">
                 <img 
-                  src="https://placehold.co/600x800/12121e/FFFFFF/png" 
+                  src="src/pages/assets/600*800.png" 
                   alt="Dashboard UI" 
                   className="rounded-lg w-full h-auto shadow-lg"
                 />
               </div>
               <div className="project-card">
                 <img 
-                  src="https://placehold.co/600x600/12121e/FFFFFF/png" 
+                  src="src/pages/assets/600*600.png" 
                   alt="Mobile App UI" 
                   className="rounded-lg w-full h-auto shadow-lg mb-4"
                 />
                 <img 
-                  src="https://placehold.co/600x400/12121e/FFFFFF/png" 
+                  src="src/pages/assets/600*400.png" 
                   alt="Website UI" 
                   className="rounded-lg w-full h-auto shadow-lg"
                 />
@@ -394,8 +394,8 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between gap-10 mb-16">
             <div className="max-w-xs">
               <div className="text-2xl font-bold flex items-center mb-4">
-                <span className="text-white mr-1">Neon</span>
-                <span className="text-purple-400">Labs</span>
+                <span className="text-white mr-1">Dhanush</span>
+                <span className="text-purple-400"></span>
               </div>
               <p className="text-white/70 text-sm">
                 We help businesses create memorable digital experiences that connect with their target audience.
